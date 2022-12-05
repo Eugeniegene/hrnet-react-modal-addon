@@ -1,5 +1,7 @@
 import React from 'react'
 
+import './App.css'
+
 const FormModal = ( props ) => {
     const { closeModal } = props
     

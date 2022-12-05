@@ -1,6 +1,6 @@
-import './App.css'
-import FormModal from './lib/formModal'
 import { useState, useEffect} from 'react'
+
+import FormModal from './lib/formModal.js'
 
 function App() {
 
