@@ -12,7 +12,7 @@ const FormModal = ( props ) => {
               <div className="icon-container" onClick={closeModal} aria-label="cross-icon">
                   <i className="fa fa-lg fa-times" aria-hidden="true"></i>
               </div>
-              <p>Employee successfully created !</p>
+              <p>{props.message}</p>
           </div>
         </div>
       </div>

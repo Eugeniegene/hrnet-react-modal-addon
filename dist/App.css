@@ -6,7 +6,8 @@ body{
   background: rgba(35, 34, 36, 0.411);
   height: 1400px;
   width: 100%;
-  position: relative;
+  position: absolute;
+  margin-top: -193px;
 }
 
 .container {

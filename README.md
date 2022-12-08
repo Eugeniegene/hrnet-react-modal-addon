@@ -39,10 +39,10 @@ npm start
 Install the library in your current React app file : 
 
 ```bash
-npm install @eugeniegene/hrnet-modal-addon
+npm install eugeniegene-hrnet-modal-addon
 ```
 or 
 
 ```bash
-yarn add @eugeniegene/hrnet-modal-addon
+yarn add eugeniegene-hrnet-modal-addon
 ```

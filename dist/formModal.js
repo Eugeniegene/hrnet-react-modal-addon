@@ -22,7 +22,7 @@ var FormModal = function FormModal(props) {
   }, /*#__PURE__*/_react.default.createElement("i", {
     className: "fa fa-lg fa-times",
     "aria-hidden": "true"
-  })), /*#__PURE__*/_react.default.createElement("p", null, "Employee successfully created !"))));
+  })), /*#__PURE__*/_react.default.createElement("p", null, props.message))));
 };
 var _default = FormModal;
 exports.default = _default;
